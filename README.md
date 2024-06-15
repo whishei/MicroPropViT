@@ -1,1 +1,5 @@
-# DinoV2-Youngs
+# Learning microstructure–property relationships in materials with robust features from vision transformers
+
+Machine learning of process–structure–property relationships from data is an emerging powerful approach in computational materials research. Most existing machine learning efforts rely on the development and training of task-specific models for each individual process–structure–property relationship. In this work, we propose utilizing a pre-trained foundational vision model for the extraction of task-agnostic microstructure features and subsequent light-weight machine learning. We demonstrate our approach with a pre-trained DinoV2 model on unsupervised representation of an ensemble of two-phase microstructures and modeling of their overall elastic stiffness. Our results show the potential of foundational vision models for robust microstructure representation and efficient machine learning of process–structure–property relationships without the need for expensive task-specific training or fine-tuning.
+
+
