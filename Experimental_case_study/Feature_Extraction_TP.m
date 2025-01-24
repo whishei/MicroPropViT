@@ -1,8 +1,8 @@
 
 % Specify the folder containing .mat files
-folderPath = '/MATLAB Drive/12_06_Binary'; % Update with your folder path
+folderPath = 'Binary_Images'; % Update with your folder path
 
-savefolder = '/MATLAB Drive/Experimental_TP';
+savefolder = 'Features_TP';
 
 % Get a list of all .mat files in the folder
 matFiles = dir(fullfile(folderPath, '*.mat'));
